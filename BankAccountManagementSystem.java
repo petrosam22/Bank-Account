@@ -71,15 +71,7 @@ public class BankAccountManagementSystem {
 
       }
 
-      // create account use scanner
-
-      // add depositToAccount
-      // bankService.createAccount("saving", "1", "peter samir");
-      // bankService.depositToAccount("1", 1200);
-      // bankService.showAllAccount();
-
-      // bankService.showAllAccount();
-      // System.out.println("Savings account created successfully!");
+     
 
    }
 }
