@@ -1,3 +1,1 @@
-first clone the repo
-
-javac java.BankAccountManagementSystem
+BankAccountManagementSystem java
